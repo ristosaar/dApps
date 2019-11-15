@@ -1,9 +1,9 @@
 pragma solidity >=0.4.21 <0.6.0;
 
 contract CrappToken{
-    string public name = "Crapp Token";
+    string public name = "CrApp Token";
     string public symbol = "CRAT";
-    string public standard = "Crapp Token v1.0";
+    string public standard = "CrApp Token v1.1";
 
     event Transfer(
         address indexed _from,
