@@ -17,8 +17,3 @@ contract('Inventory', function (accounts) {
         }); 
     }); 
 });
-// itemList.push(ShopItem('Motoroller 050','HixHW9T.png',0,2,500 finney)) - 1;
-//         itemList.push(ShopItem('Somesong S23','PTcEHuo.png',1,0,1000 finney)) - 1;
-//         lastItemId = itemList.push(ShopItem('NoGia 2sa','YOVHJfT.png',2,1,700 finney)) - 1;
-// let instance = await Inventory.deployed()
-//instance.addNewItem('Some very cool phone','PTcEHuo.png',0,web3.utils.toWei('700', 'finney'))
